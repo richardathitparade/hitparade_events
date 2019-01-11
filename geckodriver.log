@@ -1,0 +1,1580 @@
+1547104417187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.VEUwmRHWB7vj"
+1547104418569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547104418570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547104421375	Marionette	INFO	Listening on port 54177
+1547104421612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=7104014555864.803;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547106293674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.NsQrWJLzDGxk"
+1547106294921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547106294921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547106296540	Marionette	INFO	Listening on port 54576
+1547106296939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1112600851233.5527;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547109157680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.cw22l8izPeRr"
+1547109158821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547109158821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547109160277	Marionette	INFO	Listening on port 55194
+1547109160493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=2911461514763.9775;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 5044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547109189962	Marionette	INFO	Stopped listening on port 55194
+[GPU 5932, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547109267458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.az31uSXgodOm"
+1547109268534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547109268534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547109270040	Marionette	INFO	Listening on port 55512
+1547109270232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5986060242517.495;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547109322113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.EXiBCiHRNRi0"
+1547109323308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547109323308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547109324770	Marionette	INFO	Listening on port 55820
+1547109324910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1543273927343.5913;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547130205720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.aKPk3PL7MA4P"
+1547130207239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547130207239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547130209767	Marionette	INFO	Listening on port 61392
+1547130210039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=4598926442761.869;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547130883970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.xiS6aqGbPgu4"
+1547130885221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547130885221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547130887690	Marionette	INFO	Listening on port 60714
+1547130887793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9031801779281.85;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547131000568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.KdDUuWxXbIc2"
+1547131002085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131002085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131004711	Marionette	INFO	Listening on port 61087
+1547131004919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5357610090647.125;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547131159080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.dhFqjxqgtVIA"
+1547131160380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131160380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131162835	Marionette	INFO	Listening on port 61474
+1547131162935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=282390578108.0205;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=Q0iQJG6HnS&t=1, line 79: TypeError: document.querySelector(...) is null
+1547131276354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.GHvPALhO1L48"
+1547131276940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131276940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131279430	Marionette	INFO	Listening on port 61847
+1547131279603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6310738314511.963;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547131606702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.yh7Si3Q0GgBS"
+1547131607123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131607123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131608884	Marionette	INFO	Listening on port 62235
+1547131608984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6285885726836.245;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547131780968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.EtjjBzPC9Fuj"
+1547131781365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131781365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131783024	Marionette	INFO	Listening on port 62593
+1547131783175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6741343288238.173;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60744078/20181012073848730/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=3OJqd9KvbN&t=1, line 154: TypeError: document.querySelector(...) is null
+1547131901092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.LeDMmBJGNKV2"
+1547131901459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547131901459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547131902999	Marionette	INFO	Listening on port 62955
+1547131903266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9494602084744.555;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/234123/32655460/xbbe/creative/adj?p=APEucNU0InpVAtNJqQWLTAcb8PnXkG6MJ56SYQ1ImySkKb9bQUwTSBI&d=CjkAoCZ_4BrOhLRUlSINWz4JzqU8W4vkBd2FS-H86dMr49kXv3uZCV5WQx0oDu5-mVfrKK_cKVX0L64SuQ8AoCZ_4GPOFm5wDckmxuWJnRbXRvdWT73iIDZU7Q0lRa035TWRUTgB-S_3IljIBmFuv19bpnlkJwtVcT9i250DPE6xzGSb9lFEWTMbQDWHpuBmHdU-finTADNVRJi7plkmG5jLy3N57taa5tyZt3BhbdcLt9H--f5TS6HMzUFkENDZLZSI7NdGwDwsyv4NOcSek5pIx89vWhLpeLCEIHv0l6LWOHYrMqXUyI_qJ2YbGyDI-eMeC0yaNs4puMml1Psbyuz7MUTzwY9DhFfd2naCZVMBWx0X48G8EC9ELTgo5YGDcI9J490CHjKERBUDrk18b59Tj2Zn0WKqfmIDD824cKffzY_2U9gwuMSj48U15G-3n83HGVIdDsgd35MHHiTwtZ0f5AsQDRbJZZ75dKAzrg9ABhmZV2hgZk2Eo982as1Gk3452Lv-Uq6e5pOnDNctpdtd2bycFcnifuvxdoJ1vPJrw_XwIDRfyurwTLp5Yu8-rfoOUzRCzp1gjDlo6tFkOCgJIrYY5L2XDn2-y7tboZY4UY2sNTiBpETEI45HhSnKHYDXm2ySrBGX3u2FXKQs8l0hqhgSdN2O-Y_gLA1xlAua3UnMxicsK6AJvUYOiUWUo8iavD_rDtPo_biDqZEg4tj9z5X9u6Ca6Y_9Iv4vVetKsHAuo-IlhMge9uud05oGy6bTpKZ7gY56TyjWjPyM_tk6EYPM4WCUh4_iMirpHvTrL6upZv2kWF1jPE7BexZ-s40kU-4FSPRSlswinqLtCuRITvhkSmloIQXCBJodS660L_i3NVbIFEYw86WBDiVJHE5rHk9X9ySG_lIKl8_ZZ2mxtRHo0d1zi0BrCWFAQRj7bFV9zsJncLB4HYj3ph_DsASUHGqzskXFk7CTPPne0VKuGY9XtFM8EuAzqHPPv_c9fekano50l7hdvRMy7JKA_-K3OqrtiJU6hBhc2SF-j5g_XOG13d3mxngCLDV26pIkEtGUVKZ2sb89yNpJMqv1OAIb9NHM1FolRzCjCgV1w2DPCtVTslq_juWO38JshLK1Lkm4R4JdtKW8-UE6lxCOhdqRUgqfQ7n91UCtoE0fNYXe5TWuH_Chd7iELAtoemZnXaRYYrV4Xxh6m9tpnRhk2vCnEK6V7abK8hpeiJ6MPK_OoGKHYqBU-7mT7mlhRO-bi_AC-yKkc50_bd4ExqQCiX2o7BLz8eK1KQojRHCL__YZ8kNHu6joOXHFqoElFr-8ueFLLNEGYNUDnP215rPIPWolEDzknLxOJBxcaOUqxDKq1jEZkRwAkN61-L9q2i3sJRvuGxuW8-jfTUGfxONqSzFZqJH63zhIk75tpjsFMi96g1FWaK-hpAoV9Cgp9byCH59KTmWng4hUBXrzwJi3Qy8YH9AU4I-6dHZmtUnnAtF5aaXIeDDuyjwW4i5Sen_8qL9dPlvW-KIRDjqp04mrYglYsWcwseqYlpgf_9zfgD9GdKUTdv6-XUe7vuwIQPjmb70NH_55qk7XiF6iRva1zZSGwGAN63aRJwrbUh8e0k067dutoi4XOriV-b2EdyEfgL1tIPa1nemrBa8uMmvX_UAmv9hrQHlr_u5OY9A7tuTaKorj3f2S0UBUxI9b7lKxCH7MKzA4bQmr3okz7zfcdVG0H6kI98HpprM17GYoXyFdpapNcOJU38Y1wmIM9nTptycUAquh1Ga7XAC4CdchiBO3XrrphAJKLfI7qX7IyRRBg7BmKFxKSzdOAKXuX4jPWx9tzR5ADvtQIOcsP_LbMCXfqBFftg0v_igXjBZJrfo1hqIqxOOQMJ2ml9bkLh-pdGoguidSwkIQGBUOPK9bmvhPi2TviuSqoBYMi2COJE_iqfPhRWUnRpIyd3c9TwbmsnvGLTjubCSMry6pTy7N_4kaX9Te6yatsWmX4F8DqBL_UWgKqV6X0oeP0y26IYFBAG5hOExAi0xsgRi4HUuu1XvT4UKmEoreB1mXeNh41hPqZiNvvakRjq6FLSRz3FwsWJLo3sjCQy9GRWvW5CI6oFwaxPOA-lqIYDz2I8eFphcnGspsgPGNGXRCVQ-8R47hdj8TM9-ju9hS_KmvpdfmZ5EGyRgzGLTIh1Hv3TrN9JB3KExECIjhT9buavxy_zRYEvuhbPlJigmnRh-7O0LC-OZnoYQmgT3DjTpl4f6N-YZFAtH4BZs3uaXtnG56UXnBP8-kVU9bM6Lj7rzoU3m1MX2UZFyD_gBQu1ZknxjniZnvTs_AxRCuH12RmjZA0sQJJNKhuTmy8N_wJaVeCqQUWcjt5EVVXDsRmE5IyuNZueNbP-5_7H1QkpTa5QaWb2B58c3Qr8Ckm0gEoJOXAsY5XxRlpfMfW58M-g2JNdFdpUg7-2LoygnUeNabFzjl8OBXKkkv6k_kRSgH6D7j5KBXL8H1ZOXz_09_vU6dkacXz0d17TOxeq4aGVZxldW2yfd7I1TQUnEzg_5f40B3JTrlyohDbtvyHsX12N1TBtrIkQyPYIIA-JawfaFczjsFW6A6pSSkVtEYQUr42BFmNiM3441Vs0idkHgh3y6boldclvh0dUptfDQIMxGPT0aTGOukKrRCzj1pxo5rAZnSV54UvQogxcvKtJXvB3OvxmYPVsgUbBFbTOIaFggAEhLkaHuvdRrEAExetvA1kSsHx1RgAQ, line 904: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/234123/32655460/xbbe/creative/adj?p=APEucNU0InpVAtNJqQWLTAcb8PnXkG6MJ56SYQ1ImySkKb9bQUwTSBI&d=CjkAoCZ_4LBMX4-qdVO1dRag8OpwyjM1BOe_1eoK8ki80bF4rqrb-y-u5bKJLV9QPj7gEGvSF2cd5-ES2Q8AoCZ_4FKyNvN09b97bBXGi-QKIRd2kLoUGqgSSrU2V-aQH1z8dYqWhiiCg12fyMtjfP5txt684LRSZqlR2fRUCZPAuW9b-yymDLFQuNeE39IUUgkRVU9WHvtCemWXBhWOsj_If_JclHEnvQebXV6Q0Fw-6VbTbvke1dybVw9jpbTJGNtvW2TCeRtb5eA0yqN5NQb0KZy-rkjZyGSyDeSUnPghW_44feqWhpIBD0_HLROh6rgxrg708ojw3R3yXBIEeh41uGNG4ZgMTA2V7RZxkG0QV4br758noLuDAeyUUmrgqwgEjGx6S37wHQzV3Fb1B66SVJFVnHd3CQekCN1rQ3xD_lDKnS2C1z_mf-KdXpWuL503bTsW96kn37rogxhuBrjrf1c1qgAB_06tIkzh9IqJICGy2tq8Lo4OjhEY6XatvE9-DCTQC3rlXBioo4L3h6NhAI86MK1hPEv2LPlbwSvYPdHVqrnF4LtaFL-yQHfvXwNy3jY4JieonhKEmiLyHm95DfYY0iPBpbJBF5BE8zFLnu5xoiugBDbZqUp3Zf3cKI4e3QtewhodgSCaXipUJcQT86BRhip9g1MLzmASzzJcxqwqFNSwD6L-jUu7Am5PXdYWi92Cphpv02EpQX5H0K2lX2IZL7D73OtEzZVGfBkEMPJ2TLNy79gYLc86vA6Os9189PzpQlRkLX_PpqDvwdBGpTfEzHjKO7IeewV3h63Jf9cAjX9rE54CPj4dkmTHJP-mL4M-59txhZxjvSI387oGoOtRV8UJvyyO65Rp7kApQIk-Hlrpv8LYITzh1yQxq2VoL4FmFwBzAtmaGQkNe6K4G5fe3de3-8MQRLmxlQY-RauGSh4Cw5EyYhTI9Apqlzfuoj0INJ6FYqCxStS7GxRR0QXVgkh2ySSJpbjep7r3n8_dgLv0QKGzLH44h46VEAukLUhDdwWIK-6ZsoyR-njcQum1eOA5dzkULWHQJnuLt1aB5k3lv9zXYnD64rjV99e6cgp6AbIb6aPvQGEFIGVI64FLvI0FMzmH6oeaBGhWoD0HLvandxHSBVsZS9vqowUivLT3yDD_WX-i8HdxdOeAOymCPFENaCV-4XrJYt5hqQkP-mJD9oD_z-F4dt_WnFE20zEvpEZbeTJQ40S7EiiqPA71LB8-9gTUQMlYZ9gMcjjDQWkxjbrwxsJuVjFOqY4A_lpj3iDDC09yHLHK91Jbl85kNgwhXS3W4uTFMYbMBwRlIBq3djl0AmxqwDWIbuhQAeekCbQPoOZk_4E6aifhMnZUsHtDF9TD06qd2UqBLHwEWKIitOx1WlbsrUGu9vfDpDOQIN6IOYVt-ORhRxEgTBOTwOrWEgSiicPw_Q6TGK1w66WxWfW8K_E93h9PrVOhX0anseN19qs_vJYa06UKjUY3nqjDNh1sTUfpsp318cmUf3XiFy_T61McC-TCGL9LxY2kt9gJWc5o82ky5o7o6vQHgViQjFOpHDtByztHBQM8YdKMtJRntLQpZTkigrBcAvm8_qd8yv2phVnokcOLb0qBSjG4Pph0bWRvy4Wn624-kUCjhwHB86b63IJA6c5pwZ30K83VhlZsjORXhR0e5XyW-L25sXjpCSzSpeQ1qSgr16yifphTGjEuZ4bsVbTDmVUQ7nSu4qCkPH21ooA_D-y0KFhg7QWYI-QAvaUAyWnPScni6iF842UZUDz_uTrbshkdl_yDzWhTikZlc7e49fI279qq3Ujpj_iqgf5laRxDwkpd-c6dNVhqj3oHcNBev4cWjf7htVS5SmQw0pO8iUgzFzhybptb4AiGKKSBzR6AAiesCsW4HG5k4YfwNbBljtmY1yPwBvoDUEzHKac2OprwwpH_y6d_rqPMO534B6G-e69eIAmPPsIXZX6cranaxkpW33cGWFBJUCV5rHhVCu1Bhs7Wfwuw96Jka67_PkFmZb9bjKF1SWzHYddeuRjtD-lsx1icuuFsLIfIz6yo0M4wGyp3_QpxxLkMdgk3dDignxCIcO2qQiC7g2KIpB4bwpIGz5tKaCd-hieOetmhThP4YkMc5LuTPcHyyDZUKfCIna_dCRYINlaQUt3qQZPU5pSef97XckhmfEAZ2HRqooBPddj999sYhHMF7JOyBYUBGy2INHdXgVdUQ-gQcun4nyLBQMsx6wKSD4QC79zlK4ySLA3kE05e7-Na9DEXAA_yVN4RnmjWzTu0mg3auYUV4LEBoiibDtA45lIyjyWM6TQQeC9u0j-WrJWzTxQcKO0LhCB42komvcM3GzD9Nsd_jNq7FAqiizxLDizWuTU__6nO6s_Da5lvdNCALOyOCqbv4RbufIH04BbmcU0rCBitTgPTDnYXi0RxaNpkPCpJaIqXgNJWaBhFd3c5Xe3k9b8zfc2bMvBC8HTWqR12U1fY0D5-eg8pEzVys_-hmGeUChtPfwKRgp36tJ2DRtR--Z4KefTEFXOBTB0eFksgZmkzLPIiLXqHfpNWv6PwGXi-SSWHer7XodU40QvoGFLg9casNyYRAPFIJZ0E-kODhcwv928pXFQpa3NbFCCrusTL4P8LYKz_FwOGODj-QY0u-oJ8CPZJEkttWLcyBvuI4w42wIbK3XsI75C_ZK1xgg2flofJF9s8H99SsKbC4ksJIu5InG4aJQ9azrnmMOMd7g7uWmbwwBoWCAASEuRoNL0LG-eLdTrwyvNadqDwiWAB, line 904: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+1547132163398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.kSVcgjtHu8lE"
+1547132163813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547132163813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547132165361	Marionette	INFO	Listening on port 63406
+1547132165577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=7902292346069.726;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn.krxd.net/controltag/rkrioms3o.js?advertiserid=5093340;campaignid=21772511;adid=429951868;siteid=3102801;placementid=232081816;creativeid=107736550, line 72: ReferenceError: Krux is not defined
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547136124157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.Zi9ulXBb15ID"
+1547136125329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547136125329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547136126881	Marionette	INFO	Listening on port 53360
+1547136126954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=444929866082.6306;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547136780485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.tskBOTldSPom"
+1547136782250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547136782250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 4976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547136785371	Marionette	INFO	Listening on port 58576
+1547136785567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9969969313942.602;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20190107/r20110914/client/ext/m_qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 12: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn.flashtalking.com/xre/343/3432387/2373327/js/j-3432387-2373327.js, line 2171: TypeError: window.ftPageFold_v4 is not a function
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547136956404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.3CJ73OlzX5dB"
+1547136956803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547136956804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547136958421	Marionette	INFO	Listening on port 59289
+1547136958591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5071564569317.36;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547137224006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.todWfb9jnlZX"
+1547137224483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547137224483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547137226510	Marionette	INFO	Listening on port 59678
+1547137226806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6935118963198.506;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547137416507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ef4ULz5oBSjD"
+1547137416893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547137416893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547137418487	Marionette	INFO	Listening on port 60053
+1547137418673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5657506412689.426;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+1547137501795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.zuivRJSLfPlk"
+1547137502188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547137502188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547137503784	Marionette	INFO	Listening on port 60463
+1547137503998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6327662486919.856;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547137627280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.s2aSqMUoortj"
+1547137627668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547137627668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547137629244	Marionette	INFO	Listening on port 60805
+1547137629457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5706528702342.109;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547137760134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.HiVCQZVRbuGG"
+1547137760516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547137760516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547137762139	Marionette	INFO	Listening on port 61162
+1547137762276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9640336435262.707;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547139966210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.HuPmxXHHK1TX"
+1547139966621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547139966621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547139968278	Marionette	INFO	Listening on port 61569
+1547139968403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=938942761347.4044;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547140155830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.xskwQ35I19Zr"
+1547140156233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547140156233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547140157798	Marionette	INFO	Listening on port 51263
+1547140158036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=2052673552208.7869;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.TRTE6HXyzHcE"
+1547140416786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547140416786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547140418711	Marionette	INFO	Listening on port 64896
+1547140419045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547140782583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.95VSahrc5g7H"
+1547140782967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547140782967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547140784565	Marionette	INFO	Listening on port 64993
+1547140784758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=643675859385.8993;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547140860109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.CN4k8yL5ZcpM"
+1547140860584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547140860585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547140862454	Marionette	INFO	Listening on port 65339
+1547140862894	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190095,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1547141019666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.qJM7EsFiJneJ"
+1547141020079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141020079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141021641	Marionette	INFO	Listening on port 65399
+1547141021848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=7184661446078.692;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547141208496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.9cl8Qx65EGCq"
+1547141208977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141208977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141210933	Marionette	INFO	Listening on port 49365
+1547141211297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5020457163644.048;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547141572117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.ouXJgaR7KQxd"
+1547141572528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141572528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141574106	Marionette	INFO	Listening on port 62967
+1547141574299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=4791463706407.213;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547141675586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.apH08ZMKDQtY"
+1547141675976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141675977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141677539	Marionette	INFO	Listening on port 63300
+1547141677761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=7093653464318.17;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547141785452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.zQujRxJatRo9"
+1547141785829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141785830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141787387	Marionette	INFO	Listening on port 63630
+1547141787621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1562296594082.8447;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547141918756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.IWtAjZqwUkEX"
+1547141919149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547141919149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547141920815	Marionette	INFO	Listening on port 63965
+1547141920922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=250400915357.48822;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code aft1547142368434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547142368434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144278880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.kjxEqcQ0fNl7"
+1547144279931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547144279932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144282342	Marionette	INFO	Listening on port 57132
+1547144282850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1826983291469.5837;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+08	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547144350408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144352837	Marionette	INFO	Listening on port 57592
+1547144352975	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547144361978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144365260	Marionette	INFO	Listening on port 57653
+1547144365351	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547144374655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144378341	Marionette	INFO	Listening on port 57695
+1547144378770	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547144388277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144391285	Marionette	INFO	Listening on port 57760
+1547144391526	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547144400965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144404323	Marionette	INFO	Listening on port 57807
+1547144404427	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547144413937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144417277	Marionette	INFO	Listening on port 57865
+1547144417387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547144425777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.gvBBVHnqZPnv"
+1547144427450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547144427451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144430343	Marionette	INFO	Listening on port 57909
+1547144430809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547144450924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.rzOsLLGJzEus"
+1547144451596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547144451596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144453150	Marionette	INFO	Listening on port 57957
+1547144453198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+1547144521378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.q4vkmYnlrqYE"
+1547144521778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547144521778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547144523383	Marionette	INFO	Listening on port 58033
+1547144523562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=2615874138947.407;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 7552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547148691962	Marionette	INFO	Stopped listening on port 58033
+[GPU 4244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1547148702841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.oX080A5MZ5lZ"
+1547148703370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547148703371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547148705363	Marionette	INFO	Listening on port 65286
+1547148705635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=314471072991.2703;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547149498428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.Bk18xiI5AIvh"
+1547149499698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547149499698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547149502787	Marionette	INFO	Listening on port 51851
+[Parent 6680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547149502911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=4825932765600.537;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/234123/32460405/xbbe/creative/adj?p=APEucNWE5kprNXhMI9dRCiuZToBMxZ4iCAU-yWG2uVuwJzQWkBu3AMA&d=CjkAoCZ_4HXeoBHVjwmtm5RPNsieDzYSuPlQ8G_BJo2PcCGcEHF23papdy4UlEsnK6OQ51-uweVnR7ISuQ8AoCZ_4FlecDB2ohkvyJ-z-EBhg_4sjRpnINnxDNOUIxhaUHVGPyOH4fIPkHXclFtS-_UUFQV_YO1WwQ8tdVZbPOOallci_BHHRdeyv4qmb1sEzmLJmqywUZLLUWAP_KgiQ2VG99v8aH4pLrRUmPn1EFfWItHzu5bITzLyUNL8HrrxiDK5IJucWpM-5HO5u8lZ6r8P8SUMqm7--bTHnaRJWYY_nlCW_Vf8Hdib-Rs-kWj4Qh0dtZ3CgbYmIaChogEEaVuIYW5XNYhsjfQ70a-9cqm8UcG1hXlHyyI2QnLqVo02M2hGe0OEls9j_5f87DI7lpXBAt0ZPtRFW_-1bcRbMCKEm0zTM4o7NszxK3MkPHy7zlYgidFWWKzbwTeS1C0mHtRVSUN1FK6V4KE45H02Nvv6kC6ofvV319Cd6WC7IY-pbSsW9OsHal6y1q2cjdB7zvmDdNdvEwABnjwIMu-rbVtSQICfDNezpl_wOGjDaOW0P8Mw9ioOurunNGEqV15TKKS1DKTppA_TUDYWWquJtAhKUMtIvKXhTiBwMGvfoQWk5CLI7FGe4yCvv2KW8S5ieQvL2B3QtyPcGuAo7Ex8PtO3IjzoL6ad0DnvZsyf55RSjtsaV3Yrp65XgUnDXJQKK0efzgngOaOuvvu4ZSNpQjmKJd8XocxfK1ce_XQTxBWpiL_QdJB4Rbb_vyWTE1zneLd9vmwpSwmauAfjlZDaBQcOhMteY4VsvwXU5zdYVZb2_ApvyckrT-rMkP3FZ2RzIHaf0vcdvPFGQbjuDeOY6O6U4gAYLF9zOKK4Uw_zWL2slC_-NaepytPiX8aeWCQt8lr5EcvxoEc16x4qujVmtv9Sbmtr4y_S6xSY9x_b6McxTNpBAtXsj1ruD74dw9ifefprtJzxUEo5tlObWMymBArs2Ct2L1tUOyUfrx89InvV4zNf-XZs6JgTmA0TPyF4s8y85N9zWi7bE8-WIusl_AIs3oI0AgJNEvqfVtlH_lC3w2sI0-gjFkXDqO_tmOyypRjYEk41EZf3N4K5y6zLxiz1F0vM7MRHIo6isxJ2XbfIL4eLhjZSF0aL_lA9nMpul3JnZ5Lf-kj2lYcShaXVnOFkQhGrFY1tsLHMuSU21_a19NxXQ8ZAgxndCVQd4zSLIfm1aQVHbxGBPFl9Vn4ALgJEwV3RSLcCEDlZbc_gcyWGPL6x20js04xLPn4OJ7g-XXUhntXjn956cSL5oGWlKTUMps-0EI13Ac1IRgY4Q9Ea6joxMeusvAA2AqBuqyNcxOb9FF27N8Muz9hbQ5q08Ykg18g--BlJk1c0b9H_ZlHN31QDcqQvnw68W9VVcSuVHCh6_mRx6vX43AEGkJ_ODW6ed9xYaVcC0Psl7I6XcaN78lG2wTo1bPE3ZptWNkUG4mztBDQ6K5zfiodd38GKUJYxn3VqAras7KYY0aaQlXWRl5JG1oD5dPlrf59hC53zco8mUttTG9bvvzSnhi80UFCsEYO4Y8i1h_M06LSvr6MZ-yDjgiENOR0UB14havt6Sh6ZBSz4Q0MXzJjZK65lYK5u-fb4oGpixBkvAnofulPUqJy_xRD8oG96CsymPB-_Xmkh66j5wQOP3stuR-UPL6XzOuvGqt83t2OQs8KeDL0C2FADuUhYWuCqzifSuk5DTnqFsq3q0ZzaE4YnC76FCRUmOQ-Q6mxVFhngAjfeSvM2Yrnxd6CLAe1hRIIB2smWguxhi4Q3qje9jRokq92FW7BaZDzFLjKx1WZUKDLtAKk_aCN6ApcLnYhlh5Jw0yP54J9OBKjLMfI9tL3DuOi78Axh1m4bWjnW2aCRYpbAaWYUg2H8wyST8HnGBK0YxJ4AkcZGY1_oW142RxZp-TNWuHsockEHhL4N7Uaorjzcl5lYkMTanSXYt5B8Umrd3mLbmMexLTBRR5WOSNurllzldZ2KRzd9CCRWxKxR9vQujBFk90r8R_GZEyXiC9RNhno0EVc4ZB4ZmSUjBtsv5QVLCF_keZa_AhnZJKNlJhnDJQezR-1ppUDxfuSBsguBcVn9ruLQA0kAW0q4JoWMSIJ8XedOvosswGFRjbyTwNWtzBnZERFwhdMNnZV_gBXE41qTGTA4N2PTXr34HxfjI01pUhg-RVD47mcd-xIjxGISwojST1x7g0uc-N-tZvkzPBolwQzkkjk_BFCjRjCI-fe1lpSa7V3hsMaMuKTgkcKqxFvHI3fbJveIsjETd0duqzd1T97Hty0bd3Wp3YDqP-fzPt7XVmWP-jejz9r_HRj_M67fxptCh6NT5S7XsUrMG_Unmyh_6QWLqjNKx09kQGEqAGoC2XiVvajIwQxhUK4ddz5mVEW-mYOsTvyqsC11w4fZ-s65vXAbGIjR_bcQtiCFhZF4c4OjNPndF_Z8Kct0Vie5pPzOySh0BBKnxSvWdCV-RYEd0qzt2dq-l1jkrEG4GhwuqitOuEkOe7k_fgrITbtWhs-vgXOaf_rR07D9eGZ7TlatAQWqTz5FDiGPHfmWWdR21M6fSqDTu9DwRvOVgsPUOoQrlN_Al6Hh7aedv_ejnLbPS5-cDOG2OW9oELundsUhKJM7fSKVQ_3VXCeLp-qGXOrNEqLKps1H8YoghwMRIT9lOUXhLIsaFggAEhLkaNhLdBVHzyjRgz_-Y26INN9gAQ, line 904: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/234123/32657714/xbbe/creative/adj?p=APEucNUZoFGyoXEzIPe_1Sf_MJlFg9L6PMVlKO0siWWtNQf8y0fEvPQ&d=CjkAoCZ_4C-H0V6eepHUv-y7HxjSRIDP2CkFbkw1Xh9i0kx8dsyRlMfZE1LcbYrZtBvIqHzVeRErUkUSuQ8AoCZ_4M9If9so2xE4EvzmhQZ8YvzkPvQzk_HTe4nPPWu7y9y0g98TKR7sdfprIFwmfPazlIAVUiZxg7y3dBtXAP8diV1vOlYg9FG2-Ruqll1P_ORABXxOxJ5VQvOU4Xd4VHk6UK9VYaDM1w7YDDm1gFqlHVOfGLEFiz1g22DI2LlOoJxbl3KcBOFCodvfRprgaoxgaaY8bRziT4P60q1hJfM0u5ab7luDbESpcEaA7bczo8SB4bHQ5cLXyUHGG26awtiL_YW1GMu5aFgvAOZBqkuaAj42i8YUaDx6D8md4nP6tUWcbLB-BZNoBM0kCnf5D8DD4kify6W5gPD-eGZuu7D0Gf38G8RFGbdxrnPa0Q8q40jDDBNjpHaqi5tn-hZt38sGFGXAkvC3HGjuIugEB5V5Ye_0inFe8Y8wKjzQ3u9LzyALFr98cTVF0zVJTpcH3GezHbdKWFZ6CSpHC69NH5a9KaCrSo4DjSEje4o2cu2kwzHoQfpPTmtF_iamSghjEbOQZqHfQPhYH6zbOoRdnHDIvFuIyhU_CqhsEB98vCqERCS_YytX3RfVymvaREjGB_uNgALkAHnr2WBM1eP88FI0p4xp9OZJWb3CabKvKMMI0z3fMLykiKcy6DVRUQVG9SP0XggGeVrEwu3XQXQuiuRKCaTOpO3a2RuMTZSB1uwJaC_7aZ26xz4Xn80tKITB7ZVwz2BQmNDnCuyUkRSA761eZ4XzZmMxfaQImpCPhotrl4maD6QjhUFpWLlctUZNKRdl9LKeef2jWTdn1ya3WE0qxZPBF-CH15Yp97UZRxhDOqE5I3vc9m3mo74vx21QVXivxMQvQxd0Rem3effHo34huGnTNfgo8TbFrhGnnverJg60SklekIpXU5Y1iP6YrMVp3yVgbl_oFt8YkbvwgifiBDzzIPl8NhDr8TtTlfoMbv8LmZuIagc6S_LTC_KvUwXPPDzFq1-AmMNqr5aTZS_C6cinXwVftY9oFzi7n4coPDDVs3i40idcL9qHmLYIkboioBQVmPBnvl4aLDvOKUNAovr__sbDt_yODfhgr2hB_jdPDnRf-tQY1PT43JoB8DCKU7AHfAOZumzvzURixc_5s1yagXZS5jBtuZWvWHm_NARfSehTdRRa6Tl-3TEZb6bkK8bvGSG5YrgQhfdCt2_OzV0Y6NNlnimMLhllTsii7NQmtw5Gr-vYJQvoPX98_tSrWSfD-QqqeIOz4eOSS1d0795PjrLiRZizNjemUZxm_dgOeHdmaOpZQWlnivwBcMJNrB_ufPwQP2kx5ppAnjIUpyrn-FiJJTxoPcZTtDbYKJdgKxWdcp9RM_-HtBzJQCO194OET2jT60RTglON_MheE-AYHqWpbEmf_Nt624CEuzXOaICtV7cGh7aSVBGhTzcHMK6B_rbqJXQRrsJq5N9b2x4uC1tjP4HRciLrWKly9MD8RY7I7qFM8sEmiGlnbvPtd6T53w_v2Xq3QjeqL32lZ3Wke5NZb6gGaZAw3J-1bAEDxempOUINiwIEirc6m2OujZWdhXaaTtfxxTJePXHCCdXwDLS2upsEzsMoBXdLFIy3jzI1y6rFXygwtFNbp63DF94_ulotMC_lIKUecIZOBcJGsGQEcWLAuNFN2T-0mMmRd4MpDTGOWsNPBfmHzta1y80ecOZuZERJ4jeLSbcs5rFKn5gDbTiJzaUGs8RPfApuCKNg9qdkEb4mqBgt3YAE0-HcI-Ax7vO3A5QyDzoHd_kuHVH1R6NH2o7pT3llNuSGp8XdgoQXYigBFQwt-Ce6k86Ks-mGIT9kOPoVIJX0EDHcLnLM9OMCLCk5Rz01BYG_DuBjxd-uBfy2Rr9a-dPsXxcrvLOIFL99gZ-76HQNCN-DtQDjjCcQmP85WHZwz53jG4Ez5jK8gjswFmLpBc_5WToDNmqTT1NVu-eSvJvzZg_UEwgKKblYucm4gYHPpCUZZr6RyD7wgPf1cQ92iom1UJqnUZsSEYRE4rtlcy6D4mkp0TpPCyUZkUOW7dvRzmHu7Zs7S1_tvL_eqNsL0g2YzEk9e4K0YfLaPbliI7k-_NAujRMnX5nA4zJuDG_gM1SS54j1ob0FVRRD7-RYvQOBJCVU7yilBymymt17zLCGBJHbz8FX9gTvVKcH2HEw8LQHALBAO1C9vWNRdil5PnS29kc0k6x-5x-2OtPOJ6XzBADcIihZlPDFei2jf1jg5_PyzlBvRHKur03sCrGkpgzW38NtQC6u2mGN4fidam16biq9Dy_xTyspP7ztXv9SMwaLFps8922mWDJj4LmSBqV09wEVB5w9SckfeecMuSPPqFmHuf3rtaE8CteGs5WA7ckm7drFGV0R5m6wiW3Fwkt-HsJpjvPjVVn-Gxcnla98qHIXQcyx7AaNF1cAZnEWBBHI4OrjFegXUwJSCV9SVWY-6hDmQ0WeVzPSypmFklaoiLuVOs2XMrQ7J5JpEWOGkfTrqNDfZFMFaO7eP6JQe1SO2_Rh-K8UyjuPJMUXU8SU-Ns8ux0dSYcoi2tEbu_aH-NVpqE5H-a97_p-IPsW6dQA-X_lKbo6eX7pTUKnF4OpYnmR5rAPCknqlfNztreo4soY0AjEjWDU_XRQMbQnpoGctKupGHYaFggAEhLkaKGbl3nXn4vA47TCQtu7r8dgAQ, line 904: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547149663720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.X9dICkp8LJw3"
+1547149665176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547149665176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Child 4104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin1547149668774	Marionette	INFO	Listening on port 52636
+1547149669153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=4698101850553.941;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547149766632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.rSo2GHd3XpLf"
+1547149767983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547149767984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547149770088	Marionette	INFO	Listening on port 53226
+1547149770480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1005594475045.3672;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547149880759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.wGFpyvScIXfG"
+1547149882133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547149882133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547149884234	Marionette	INFO	Listening on port 53753
+1547149884590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=3555768046539.3716;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547150042897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.LWRx0JBZumDo"
+1547150044216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547150044216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547150047401	Marionette	INFO	Listening on port 54458
+1547150047869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=3055808255327.348;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547150585180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.FkKz674O91jd"
+1547150587469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547150587470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Parent 6600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547150589740	Marionette	INFO	Listening on port 51954
+1547150590298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9782292474615.969;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547150697884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.GyS4ePsIy6q0"
+1547150699105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547150699107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547150701077	Marionette	INFO	Listening on port 52474
+1547150701168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=914817716737.667;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547158651588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.cZpTRAxUjsJ4"
+1547158652923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547158652923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547158654929	Marionette	INFO	Listening on port 57884
+1547158655404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=8023193660614.43;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547159036182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.qa0wWo0JyKl3"
+1547159037912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547159037912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547159039784	Marionette	INFO	Listening on port 63254
+1547159040008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6957363673926.997;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547159338039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.4dXzoHsjqGFi"
+1547159340574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547159340574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547159344707	Marionette	INFO	Listening on port 61365
+1547159344858	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+ing manifest: Invalid host permission: resource://pdf.js/
+1547159403897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[Parent 6980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547159411556	Marionette	INFO	Listening on port 61504
+1547159411795	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547159771596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.Ei0Nt6TOSqMn"
+1547159772939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547159772939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547159774952	Marionette	INFO	Listening on port 62375
+1547159775412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=777933026054.024;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547160022842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.RISmUnoXMwEs"
+1547160024808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547160024808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547160027399	Marionette	INFO	Listening on port 63726
+1547160027789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9198126205185.67;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.nba.com/ng/game/main.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547160251604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.VF5Cw4LTVhbX"
+1547160252900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547160252900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547160254732	Marionette	INFO	Listening on port 62630
+1547160254844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=2390960885366.774;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547160573142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.QiJEXMwEbXPp"
+1547160574381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547160574381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547160579481	Marionette	INFO	Listening on port 63610
+1547160579772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=3868750785408.127;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547160739371	Marionette	INFO	Stopped listening on port 63610
+[Parent 7320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Parent 7320, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547175644837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.JHSCYVa3KJK0"
+1547175646097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547175646097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547175647864	Marionette	INFO	Listening on port 51437
+1547175648143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6506474288195.427;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+1547175848716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.DZiC7KnUmgjE"
+1547175849125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547175849125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547175850701	Marionette	INFO	Listening on port 51893
+1547175850900	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5768146542203.207;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+JavaScript error: https://code.createjs.com/createjs-2015.11.26.min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1547177090648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.KmqmoFY5rKbg"
+1547177091044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547177091044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547177092681	Marionette	INFO	Listening on port 52381
+1547177092807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=4011091596227.387;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547177194753	Marionette	INFO	Stopped listening on port 52381
+[Parent 4572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 6436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547177213356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.95dJga3KMpR2"
+1547177213718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547177213718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547177215186	Marionette	INFO	Listening on port 52738
+1547177215499	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547177277236	Marionette	INFO	Stopped listening on port 52738
+[Child 3608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4740, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547177280889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.5AYwXmpk0wjw"
+1547177281393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547177281393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547177283641	Marionette	INFO	Listening on port 52773
+1547177283730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547178202429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.dXSDMYPAZjW5"
+1547178202858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547178202859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547178204505	Marionette	INFO	Listening on port 52807
+1547178204638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=1045002961013.9822;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190095,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300113,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190095,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190095,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7376, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1547178304119	Marionette	INFO	Stopped listening on port 52807
+[GPU 4236, Chrome_ChildThread] WARNING: pipe error: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1547178346648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.iHfdb1EWFsBC"
+1547178347035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547178347035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547178348621	Marionette	INFO	Listening on port 53211
+1547178348839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=9331324298769.162;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+JavaScript error: http://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+1547180555710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.4CI4ic01dFyI"
+1547180556105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547180556105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547180557645	Marionette	INFO	Listening on port 53605
+1547180557888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=8183688339532.019;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547180737692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.bWgwwuuYwBjr"
+1547180738093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547180738093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547180739724	Marionette	INFO	Listening on port 54127
+1547180739870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=3362566274274.16;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547181124003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.hffIPEfrycmE"
+1547181124399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547181124399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547181126007	Marionette	INFO	Listening on port 54479
+1547181126178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=7154723887460.964;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: http://d2lv4zbk7v5f93.cloudfront.net/esf.js, line 1: Error: invalid option: 'msg' valid keys are: '["hasBeenRead","has_been_read","accountId","clientId","cmd","debug","beacon","bootstrap","detection","dfp","events","rid","siteCssLocation","disableBlockerStyleSheets","styleManager","vid","runImmediately"]'
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/activityi;src=5165526;type=2017n0;cat=2017n0;ord=1456281853825.384?, line 48: SyntaxError: invalid escape sequence
+1547181366158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.nb1Tiw0yUVRf"
+1547181366536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547181366536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547181368164	Marionette	INFO	Listening on port 54851
+1547181368317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=5963648760199.132;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1547240271436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.uMWV7JoF4vwb"
+1547240271978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547240271978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547240273947	Marionette	INFO	Listening on port 53486
+1547240274231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 147: unreachable code after return statement
+JavaScript warning: http://www.googletagmanager.com/gtag/js?id=DC-5994466, line 87: unreachable code after return statement
+JavaScript warning: http://turnip.cdn.turner.com/top/core/1.3.2/default/top.sdk.min.js, line 1: unreachable code after return statement
+JavaScript error: https://5165526.fls.doubleclick.net/ddm/fls/r/src=5165526;type=2017n0;cat=2017n0;ord=6208086062612.616;_dc_1=1;~oref=http://www.nba.com/, line 48: SyntaxError: invalid escape sequence
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
